@@ -27,6 +27,7 @@
 - [PetitTube](http://petittube.com) - рандомизация видеозаписей с малым числом просмотров. Для
 корректной работы сайта необходим Adobe Flash Player. По состоянию на 6 января 2016 года
 сервис содержит 5951 уникальных роликов, часть которых удалена.
+- [YouTube Stalker](https://t.me/youtubestalkerbot) - Телеграм бот, который ищет видео, генерируя случайный видео ID. Открыт [исходный код](https://github.com/thedmdim/youtube-stalker-bot) 
 
 ### Twitch
 
