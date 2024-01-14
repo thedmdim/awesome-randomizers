@@ -68,20 +68,8 @@
 - [Uroulette](https://uroulette.com/visit/opwuot) - перенаправляет на случайный сайт.
 - [Wikidot](http://wikidot.com/random-site.php) - случайный wiki-based сайт который лежит на [этом](http://wikidot.com) хостинге
 - [Random Website Machine](http://www.whatsmyip.org/random-website-machine/random/) - случайный веб сайт из более чем 3 миллионов сайтов.
- - [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт с бесплатного хостинга sitecity.ru от [@web10_scavengers](https://t.me/web10_scavengers)
- - [ChatRU randomscan](https://t.me/ChatRU_randomscan) - ещё один парсер ретросайтов от [@web10_scavengers](https://t.me/web10_scavengers)
-
-
-## [↑](#Содержание) Текст
-
-- [РыбаТекст](http://fishtext.ru/) - случайный русский текст для заполнения контентом по количеству абзацев.
-- [GSgen текст](http://gsgen.ru/tools/fish-text/) - генерация русского/lorem ipsum текста по заданным параметрам.
-
-
-## [↑](#Содержание) IoT
-
-- [World of VNC](https://worldofvnc.net/browse.php?) - случайный VNC из 3513 серверов, информация + скриншот.
-- [IP-24](https://ip-24.net/webcams.php) - трансляция случайной веб-камеры.
+- [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт с бесплатного хостинга sitecity.ru от [@web10_scavengers](https://t.me/web10_scavengers)
+- [ChatRU randomscan](https://t.me/ChatRU_randomscan) - ещё один парсер ретросайтов от [@web10_scavengers](https://t.me/web10_scavengers)
 
 
 ## [↑](#Содержание) Tor
